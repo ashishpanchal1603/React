@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.main-div{
+  margin: 150px auto;
+}
+.increment{
+  margin-right: 15px;
+}
+.decrement{
+  margin-left: 15px;
+}
